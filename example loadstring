@@ -1,0 +1,2 @@
+_G.url = "" --enter url
+loadstring(game:HttpGetAsync(_G.url))()
